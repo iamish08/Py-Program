@@ -2,6 +2,8 @@ hello world
 simple program
 ashish singh
 program about
+ashish@gmail.com
 some words
 more about
+simple@hotmail.com
 simple programs
